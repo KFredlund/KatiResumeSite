@@ -9,6 +9,10 @@ body {
 	text-align: center;
 }
 
+h1:hover { 
+	color: #FA5882; 
+}
+
 h1 {
 	background-color: #FAFAFA;
 	font-size: 60px;
@@ -47,6 +51,10 @@ table {
 	text-align: left;
 	font-size: 20px;
 	padding-top: 100px;
+}
+
+h2:hover { 
+	color: #FA5882; 
 }
 
 h2 {
