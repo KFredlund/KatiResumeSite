@@ -7,6 +7,17 @@ body {
 	padding: 0px 75px 0px 75px;
 }
 
+
+.blog_background {
+	max-height: 5rem;
+	opacity: 0.5;
+}
+
+.blog_post {
+	background: white;
+	border: black 1px solid;
+}
+
 h1:hover { 
 	color: #FA5882; 
 }
