@@ -1,0 +1,71 @@
+
+body {
+	max-width: 100%;
+}
+
+.container {
+	background-color: #FAFAFA;
+}
+
+#image {
+	background: url(whitebrick.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.section {
+  z-index: 100;
+  position: absolute;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  left: 150px;
+  top: 350px;
+}
+
+.blog_post {
+	background: white;
+	border: black 1px solid;
+	font-size: 2.0rem;
+	text-align: center;
+	padding: 20px 10px 20px 10px;
+
+}
+
+.bigName {
+	background-color: #FAFAFA;
+	font-size: 2.0rem;
+	text-align: center;
+	color: #6E6E6E; 
+	max-width: 80%;
+}
+
+.bigName h2 {
+	font-size: 1.5rem;
+	padding-bottom: 3rem;
+}
+
+p {
+	color: darkgray;
+}
+
+.navi {
+	/*border-bottom: solid #6E6E6E 3px;*/
+	padding-bottom: 40px;
+	padding-top: 50px;
+	text-align: center;
+}
+
+a {
+	padding-bottom: 50px;
+
+}	
+
+a:link, a:visited { 
+	color: #848484;		/*#BDBDBD;*/
+	font-size: 3.5rem; 
+}
+
+
+a:hover { 
+	color: #FA5882; 
+}
